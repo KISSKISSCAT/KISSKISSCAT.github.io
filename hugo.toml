@@ -1,0 +1,24 @@
+baseURL = "https://kisskisscat.github.io/"
+locale = "zh-CN"
+title = "KISSKISSCAT"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  env = "production"
+  ShowBreadCrumbs = false
+  ShowToc = false
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = false
+  ShowRssButtonInSectionTermList = false
+  ShowCodeCopyButtons = false
+  ShowFullTextinRSS = false
+  disableThemeToggle = true
+  comments = false
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
