@@ -1,8 +1,0 @@
-{
-  "name": "kisskisscat-github-io",
-  "private": true,
-  "devDependencies": {
-    "tailwindcss": "^4.1.0",
-    "@tailwindcss/cli": "^4.1.0"
-  }
-}
