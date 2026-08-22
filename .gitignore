@@ -4,3 +4,5 @@ resources/
 
 # Hugo lock file
 .hugo_build.lock
+
+hugo_stats.json
